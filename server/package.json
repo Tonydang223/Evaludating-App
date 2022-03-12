@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "eval",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "eval"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonydang223/Evaludating-App.git"
+  },
+  "keywords": [
+    "eval"
+  ],
+  "author": "we",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonydang223/Evaludating-App/issues"
+  },
+  "homepage": "https://github.com/Tonydang223/Evaludating-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
