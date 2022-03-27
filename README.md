@@ -4,7 +4,7 @@
 ---
 
 ### Table of Contents
-- [Trello] https://trello.com/b/QICgLuLb/comp1640
+- [Trello] https://trello.com/b/hrReYDQR/idea-management-system
 - [Screencast]
 - [Group Members](#group-members)
 - [Appendix](#appendix)
