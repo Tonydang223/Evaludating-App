@@ -4,9 +4,9 @@
 ---
 
 ### Table of Contents
-- [Trello]
+- [Trello] https://trello.com/b/QICgLuLb/comp1640
 - [Screencast]
-- [Group Members]
+- [Group Members](#group-members)
 - [Appendix](#appendix)
 ---
 
